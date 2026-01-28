@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Инструменты для dxbx.ru: кнопка инструментов слева от объемных списаний
 // @author       @dieesau + t.me/tiltmachinegun + https://t.me/kseity
+// @downloadUrl  https://raw.githubusercontent.com/tiltmachinegun/dxbxtools/refs/heads/main/DXBXtools.js
+// @updateUrl    https://raw.githubusercontent.com/tiltmachinegun/dxbxtools/refs/heads/main/DXBXtools.js
 // @match        https://dxbx.ru/*
 // @match        http://dxbx.ru/*
 // @icon         https://img.icons8.com/?size=256&id=1OTMIGesNl9k&format=png
@@ -1178,3 +1180,4 @@
         init();
     }
 })();
+
