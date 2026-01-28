@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DXBX Инструменты
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Инструменты для dxbx.ru: кнопка инструментов слева от объемных списаний
 // @author       @dieesau + t.me/tiltmachinegun + https://t.me/kseity
 // @downloadUrl  https://raw.githubusercontent.com/tiltmachinegun/dxbxtools/refs/heads/main/DXBXtools.js
@@ -1180,4 +1180,5 @@
         init();
     }
 })();
+
 
